@@ -11,7 +11,7 @@
 <img width="642" alt="Снимок экрана 2024-11-23 в 10 14 02" src="https://github.com/user-attachments/assets/ee23fe65-05fe-41aa-943c-b14370618646">
 
 
-
+*Email - последняя колонка заполненная
 
 
 
