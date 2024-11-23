@@ -8,7 +8,7 @@
 
 <h2>Таблица принятий решений</h2>
 
-![948f34fd64da6f76eedf52fb406008c4](https://github.com/user-attachments/assets/47083776-2f07-4457-a320-cd608f703375)
+<img width="642" alt="Снимок экрана 2024-11-23 в 10 14 02" src="https://github.com/user-attachments/assets/ee23fe65-05fe-41aa-943c-b14370618646">
 
 
 
