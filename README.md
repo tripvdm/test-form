@@ -1,4 +1,4 @@
-<h1>Описание тесткейсов для формы https://www.testograf.ru/ru/blog/feedback-form-template</h1>
+<h1>Описание тест-кейсов для формы https://www.testograf.ru/ru/blog/feedback-form-template</h1>
 
 <h2>Причина/следствие</h2>
 
