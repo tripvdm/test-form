@@ -10,6 +10,8 @@
 
 <img width="726" alt="Снимок экрана 2024-11-24 в 21 58 48" src="https://github.com/user-attachments/assets/83297785-ea58-4a40-9921-4c37135ffb97">
 
+<h2>Создание тестовых сценариев</h2>
+
 <h2>Используем API testograf https://www.testograf.ru/ru/docs-private-api</h2>
 
 
